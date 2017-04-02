@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: COMP250-ResearchJournalFinal.aux
+The style file: ieeetr.bst
+Database file #1: COMP250-Journal.bib
+I was expecting an "="---line 65 of file COMP250-Journal.bib
+ : journa 
+ :        l={IEEE Technology and Society Magazine},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Park" isn't style-file defined
+--line 76 of file COMP250-Journal.bib
+I was expecting a `,' or a `}'---line 80 of file COMP250-Journal.bib
+ : 
+ : month ={Jun}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty title in Japan
+Warning--empty journal in Japan
+Warning--empty year in Japan
+(There were 2 error messages)
